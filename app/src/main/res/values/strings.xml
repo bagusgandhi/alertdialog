@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pertemuan 7</string>
+    <string name="aktif">Aktif</string>
+    <string name="deskripsiAktif">Anda akan menjadi anggota aktif</string>
+    <string name="pasif">Pasif</string>
+    <string name="deskripsiPasif">Anda akan menjadi anggota pasif</string>
+    <string name="keluar">Keluar</string>
+    <string name="deskripsiKeluar">Anda akan keluar dari anggota</string>
+    <string name="nama">Bagus Gandhi Pratama</string>
+    <string name="nim">195411037</string>
+    <string name="dialog">AlertDialod</string>
+</resources>
